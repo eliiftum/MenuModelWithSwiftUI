@@ -5,11 +5,7 @@ My first project with SwiftUI.
 
  - Developed with SwiftUI.
  - I made it with Storyboards
-
-   
-## Third-Party Libraries
- - SnapKit
- - SDWebImage
+ - 
 
 ## Previews
 
