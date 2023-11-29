@@ -4,8 +4,8 @@ My first project with SwiftUI.
 ## Features
 
  - Developed with SwiftUI.
- - I made it with Storyboards
- - 
+
+   
 
 ## Previews
 
